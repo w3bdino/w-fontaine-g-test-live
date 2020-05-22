@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/w-fontaine-g-test-live/static/css/main.b4db97af.chunk.css",
+    "main.js": "/w-fontaine-g-test-live/static/js/main.39d327f6.chunk.js",
+    "main.js.map": "/w-fontaine-g-test-live/static/js/main.39d327f6.chunk.js.map",
+    "runtime-main.js": "/w-fontaine-g-test-live/static/js/runtime-main.1ef2da3c.js",
+    "runtime-main.js.map": "/w-fontaine-g-test-live/static/js/runtime-main.1ef2da3c.js.map",
+    "static/js/2.54fff793.chunk.js": "/w-fontaine-g-test-live/static/js/2.54fff793.chunk.js",
+    "static/js/2.54fff793.chunk.js.map": "/w-fontaine-g-test-live/static/js/2.54fff793.chunk.js.map",
+    "index.html": "/w-fontaine-g-test-live/index.html",
+    "precache-manifest.8fac1eb7a764bf4eb7c0a07ed702f109.js": "/w-fontaine-g-test-live/precache-manifest.8fac1eb7a764bf4eb7c0a07ed702f109.js",
+    "service-worker.js": "/w-fontaine-g-test-live/service-worker.js",
+    "static/css/main.b4db97af.chunk.css.map": "/w-fontaine-g-test-live/static/css/main.b4db97af.chunk.css.map",
+    "static/js/2.54fff793.chunk.js.LICENSE.txt": "/w-fontaine-g-test-live/static/js/2.54fff793.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ef2da3c.js",
+    "static/js/2.54fff793.chunk.js",
+    "static/css/main.b4db97af.chunk.css",
+    "static/js/main.39d327f6.chunk.js"
+  ]
+}
